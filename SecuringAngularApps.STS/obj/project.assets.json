@@ -13679,11 +13679,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Fsa\\source\\repos\\openid-and-oauth2-securing-angular-apps\\m1\\before\\SecuringAngularApps.API\\SecuringAngularApps.STS\\SecuringAngularApps.STS.csproj",
+      "projectUniqueName": "C:\\Users\\Fsa\\source\\repos\\SecuringAngularApps.API\\SecuringAngularApps.STS\\SecuringAngularApps.STS.csproj",
       "projectName": "SecuringAngularApps.STS",
-      "projectPath": "C:\\Users\\Fsa\\source\\repos\\openid-and-oauth2-securing-angular-apps\\m1\\before\\SecuringAngularApps.API\\SecuringAngularApps.STS\\SecuringAngularApps.STS.csproj",
+      "projectPath": "C:\\Users\\Fsa\\source\\repos\\SecuringAngularApps.API\\SecuringAngularApps.STS\\SecuringAngularApps.STS.csproj",
       "packagesPath": "C:\\Users\\Fsa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Fsa\\source\\repos\\openid-and-oauth2-securing-angular-apps\\m1\\before\\SecuringAngularApps.API\\SecuringAngularApps.STS\\obj\\",
+      "outputPath": "C:\\Users\\Fsa\\source\\repos\\SecuringAngularApps.API\\SecuringAngularApps.STS\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
