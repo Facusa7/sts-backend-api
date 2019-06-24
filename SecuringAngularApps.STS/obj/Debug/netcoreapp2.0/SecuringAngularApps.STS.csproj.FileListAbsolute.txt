@@ -1,0 +1,12 @@
+C:\Users\Fsa\source\repos\openid-and-oauth2-securing-angular-apps\m1\before\SecuringAngularApps.API\SecuringAngularApps.STS\bin\Debug\netcoreapp2.0\SecuringAngularApps.STS.deps.json
+C:\Users\Fsa\source\repos\openid-and-oauth2-securing-angular-apps\m1\before\SecuringAngularApps.API\SecuringAngularApps.STS\bin\Debug\netcoreapp2.0\SecuringAngularApps.STS.runtimeconfig.json
+C:\Users\Fsa\source\repos\openid-and-oauth2-securing-angular-apps\m1\before\SecuringAngularApps.API\SecuringAngularApps.STS\bin\Debug\netcoreapp2.0\SecuringAngularApps.STS.runtimeconfig.dev.json
+C:\Users\Fsa\source\repos\openid-and-oauth2-securing-angular-apps\m1\before\SecuringAngularApps.API\SecuringAngularApps.STS\bin\Debug\netcoreapp2.0\SecuringAngularApps.STS.dll
+C:\Users\Fsa\source\repos\openid-and-oauth2-securing-angular-apps\m1\before\SecuringAngularApps.API\SecuringAngularApps.STS\bin\Debug\netcoreapp2.0\SecuringAngularApps.STS.pdb
+C:\Users\Fsa\source\repos\openid-and-oauth2-securing-angular-apps\m1\before\SecuringAngularApps.API\SecuringAngularApps.STS\obj\Debug\netcoreapp2.0\SecuringAngularApps.STS.csprojAssemblyReference.cache
+C:\Users\Fsa\source\repos\openid-and-oauth2-securing-angular-apps\m1\before\SecuringAngularApps.API\SecuringAngularApps.STS\obj\Debug\netcoreapp2.0\SecuringAngularApps.STS.csproj.CoreCompileInputs.cache
+C:\Users\Fsa\source\repos\openid-and-oauth2-securing-angular-apps\m1\before\SecuringAngularApps.API\SecuringAngularApps.STS\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\Fsa\source\repos\openid-and-oauth2-securing-angular-apps\m1\before\SecuringAngularApps.API\SecuringAngularApps.STS\obj\Debug\netcoreapp2.0\SecuringAngularApps.STS.AssemblyInfoInputs.cache
+C:\Users\Fsa\source\repos\openid-and-oauth2-securing-angular-apps\m1\before\SecuringAngularApps.API\SecuringAngularApps.STS\obj\Debug\netcoreapp2.0\SecuringAngularApps.STS.AssemblyInfo.cs
+C:\Users\Fsa\source\repos\openid-and-oauth2-securing-angular-apps\m1\before\SecuringAngularApps.API\SecuringAngularApps.STS\obj\Debug\netcoreapp2.0\SecuringAngularApps.STS.dll
+C:\Users\Fsa\source\repos\openid-and-oauth2-securing-angular-apps\m1\before\SecuringAngularApps.API\SecuringAngularApps.STS\obj\Debug\netcoreapp2.0\SecuringAngularApps.STS.pdb

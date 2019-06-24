@@ -1,0 +1,11 @@
+C:\Users\Fsa\source\repos\openid-and-oauth2-securing-angular-apps\m1\before\SecuringAngularApps.API\SecuringAngularApps.API\bin\Debug\netcoreapp2.0\SecuringAngularApps.API.deps.json
+C:\Users\Fsa\source\repos\openid-and-oauth2-securing-angular-apps\m1\before\SecuringAngularApps.API\SecuringAngularApps.API\bin\Debug\netcoreapp2.0\SecuringAngularApps.API.runtimeconfig.json
+C:\Users\Fsa\source\repos\openid-and-oauth2-securing-angular-apps\m1\before\SecuringAngularApps.API\SecuringAngularApps.API\bin\Debug\netcoreapp2.0\SecuringAngularApps.API.runtimeconfig.dev.json
+C:\Users\Fsa\source\repos\openid-and-oauth2-securing-angular-apps\m1\before\SecuringAngularApps.API\SecuringAngularApps.API\bin\Debug\netcoreapp2.0\SecuringAngularApps.API.dll
+C:\Users\Fsa\source\repos\openid-and-oauth2-securing-angular-apps\m1\before\SecuringAngularApps.API\SecuringAngularApps.API\bin\Debug\netcoreapp2.0\SecuringAngularApps.API.pdb
+C:\Users\Fsa\source\repos\openid-and-oauth2-securing-angular-apps\m1\before\SecuringAngularApps.API\SecuringAngularApps.API\obj\Debug\netcoreapp2.0\SecuringAngularApps.API.csprojAssemblyReference.cache
+C:\Users\Fsa\source\repos\openid-and-oauth2-securing-angular-apps\m1\before\SecuringAngularApps.API\SecuringAngularApps.API\obj\Debug\netcoreapp2.0\SecuringAngularApps.API.csproj.CoreCompileInputs.cache
+C:\Users\Fsa\source\repos\openid-and-oauth2-securing-angular-apps\m1\before\SecuringAngularApps.API\SecuringAngularApps.API\obj\Debug\netcoreapp2.0\SecuringAngularApps.API.AssemblyInfoInputs.cache
+C:\Users\Fsa\source\repos\openid-and-oauth2-securing-angular-apps\m1\before\SecuringAngularApps.API\SecuringAngularApps.API\obj\Debug\netcoreapp2.0\SecuringAngularApps.API.AssemblyInfo.cs
+C:\Users\Fsa\source\repos\openid-and-oauth2-securing-angular-apps\m1\before\SecuringAngularApps.API\SecuringAngularApps.API\obj\Debug\netcoreapp2.0\SecuringAngularApps.API.dll
+C:\Users\Fsa\source\repos\openid-and-oauth2-securing-angular-apps\m1\before\SecuringAngularApps.API\SecuringAngularApps.API\obj\Debug\netcoreapp2.0\SecuringAngularApps.API.pdb
